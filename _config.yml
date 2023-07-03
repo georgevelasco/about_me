@@ -6,3 +6,9 @@ url: https://georgevelasco.github.io/just-the-docs-attempt-one
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+#setting up a logo
+logo: "/assets/logo.jpeg"
+
+#setting up an favicon
+favicon_ico: "/assets/favicon.ico"
