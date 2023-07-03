@@ -8,7 +8,7 @@ layout: home
 
 # Body text
 
-I think if i do this, i get a rectangle with a grey bar underneath
+<h2>I think if i do this, i get a rectangle with a grey bar underneath</h2>
 
 <div class="code-example" markdown="1">
 this is filler text to see if ican make a rectangle. 
@@ -18,6 +18,6 @@ I am the grey bar fear me
 ```
 
 # Body text inline elements
- 
+
 
 
