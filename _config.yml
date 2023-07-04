@@ -8,7 +8,7 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 #setting up a logo
-logo: "/_assets/logo.jpeg"
+logo: "https://www.onlygfx.com/wp-content/uploads/2022/01/simple-feather-icon.png"
 
 #setting up an favicon
-favicon_ico: "/_assets/favicon.ico"
+#favicon_ico: "/assets/favicon.ico"
