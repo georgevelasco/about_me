@@ -1,7 +1,7 @@
 ---
 layout: default
 title: this is my first page
-nav_order: 99
+nav_order: 2
 ---
 
 [Link to another page](another-page).
