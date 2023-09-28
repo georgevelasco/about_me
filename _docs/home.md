@@ -1,6 +1,6 @@
 ---
-title: Who am I?
 layout: home
+title: Who am I?
 nav_order: 1
 ---
 

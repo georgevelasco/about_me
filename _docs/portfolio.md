@@ -1,6 +1,6 @@
 ---
 layout: default
-title: this is my first page
+title: this is my potfolio
 nav_order: 2
 ---
 
