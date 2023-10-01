@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Who am I?
-nav_order: 1
 ---
 
 <h1>Jorge Velasco </h1>

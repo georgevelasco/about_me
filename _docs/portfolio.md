@@ -1,7 +1,6 @@
 ---
 layout: default
 title: this is my potfolio
-nav_order: 2
 ---
 
 [Link to another page](another-page).
