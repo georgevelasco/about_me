@@ -1,10 +1,10 @@
 ---
-title: "Product: Guest-led Voice Bots for Hotels"
+title: "Product: Conversational AI"
 layout: default
 nav_order: b
 ---
 
-# Product: Guest-led Voice Bots for Hotels
+# Product: Conversational AI for Hotels
 
 ## The Product
 {: .d-inline-block }

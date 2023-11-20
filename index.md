@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Who am I?
+title: About
 nav_order: a
 ---
 
@@ -10,19 +10,19 @@ nav_order: a
 
 I enjoy breaking down problems into smaller parts. One I can visually explain the concept in a napkin, I know I have figured it out.
 
-I enjoy the mental tussle of co-creation. To learn the distinct persepctives to a situation, and the challenge to figure out an efficient way to explain my own view. 
+I enjoy the mental tussle of co-creation. To learn the distinct perspectives to a situation, and the challenge to figure out an efficient way to explain my own view. 
 
 ## Product Management Portfolio
 
 <div class="code-example" markdown="1">
-Flight Search Engine @ Duffel 
+[API](Product_a.html)
 </div>
 
 <div class="code-example" markdown="1">
-Guest-led Voice Bots for Hotels @ Poly-AI
+[Voice AI](Product_b.html)
 </div>
 
 <div class="code-example" markdown="1">
-Airline E-Commerce Website @ Aeromexico
+[E-Commerce](Product_c.html)
 </div>
 
