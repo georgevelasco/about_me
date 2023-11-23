@@ -1,8 +1,6 @@
-otitle: Jorge Velasco
-description: This is an example API docs template
+otitle: About me page 
+description: Personal page 
 theme: just-the-docs
 
 url: https://georgevelasco.github.io/just-the-docs-attempt-one
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
