@@ -86,16 +86,6 @@ Provide a `path` instead of a `version` key to load the mermaid library from a l
 
 See [the Code documentation]({% link docs/ui-components/code.md %}#mermaid-diagram-code-blocks) for more configuration options and information.
 
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
-
 ## Heading anchor links
 
 ```yaml
