@@ -3,9 +3,10 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.com/">See it in action!</a></strong></p>
+    <h1 align="center">About Me</h1>
+    <p align="center">Personal blog. Based on Just The Docs template. This repo is first time use Ruby and run a conventional commmits ettiquette. 
+    <br></p>
+    <p align="center"><strong><a href="jotavea.com/">Go to my website</a></strong></p>
     <br><br><br>
 </p>
 

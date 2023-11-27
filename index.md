@@ -8,7 +8,7 @@ nav_order: a
 
 ### About Me 
 
-I enjoy breaking down problems into smaller parts. One I can visually explain the concept in a napkin, I know I have figured it out.
+I enjoy breaking down problems into smaller parts. Once I can draw it in a napkin and explain it, I know I have figured it out.
 
 I enjoy the mental tussle of co-creation. To learn the distinct perspectives to a situation, and the challenge to figure out an efficient way to explain my own view. 
 
