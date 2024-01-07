@@ -54,10 +54,10 @@ of the Convinced Google Flights & meta searchers to update referral booking expe
 ### Project 3: Flight Combination Algorithm
 <div class="code-example" markdown="1">
 
-<strong>The problem</strong> - a
+<strong>The problem</strong> - Round trip flight itineraries were not always combinable, creating website errors and ultimately a bad user experience.
 
-<strong> The discovery</strong> - b
+<strong> The discovery</strong> - After 2 failed attempts, I convinced members from pricing and inventory planning teams to help me test and de-bug.
 
-<strong> The result</strong> - c
+<strong> The result</strong> - We identified and solved 5 scenarios, ultimately reducing website error rate from 8% to 5.6%.
 
 </div>
