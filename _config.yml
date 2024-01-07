@@ -1,6 +1,9 @@
-otitle: About me page 
+title: Home 
 description: Personal page 
 theme: just-the-docs
+baseurl: ""
+url: https://jotavea.com
+repository: georgevelasco/about_me
+---
 
-url: https://georgevelasco.github.io/just-the-docs-attempt-one
 

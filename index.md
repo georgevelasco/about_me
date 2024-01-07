@@ -1,28 +1,23 @@
 ---
 layout: home
-title: About
-nav_order: a
+title: About Me
+nav_order: 1
+description: "Hello world"
+permalink: /
 ---
 
 # Jorge Velasco
 
-### About Me 
+### I enjoy breaking down problems into smaller parts
+Once I can draw it in a napkin and explain it, I know I have figured it out.
 
-I enjoy breaking down problems into smaller parts. Once I can draw it in a napkin and explain it, I know I have figured it out.
+### I enjoy the mental tussle of co-creation
+Understanding the different perspectives to a situation, and explaining my own in other terms.
 
-I enjoy the mental tussle of co-creation. To learn the distinct perspectives to a situation, and the challenge to figure out an efficient way to explain my own view. 
+### I am learning to give concise, actionable feedback
+I proofread graduate school applications and mentor up-and-coming product managers.
 
-### Product Management Portfolio
+### I am learning to be a better person
+Outside of work, I am writing poetry in spanish and mastering joint mobility exercises.
 
-<div class="code-example" markdown="1">
-[Duffel Flights API](Product_a.html)
-</div>
-
-<div class="code-example" markdown="1">
-[PolyAI Voice Bot](Product_b.html)
-</div>
-
-<div class="code-example" markdown="1">
-[Aeromexico Website](Product_c.html)
-</div>
 

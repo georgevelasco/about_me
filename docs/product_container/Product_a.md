@@ -1,7 +1,8 @@
 ---
-title: "Product: Flight Search Engine"
+title: Flight Search Engine
 layout: default
-nav_order: b
+parent: Product Experience
+nav_order: a
 ---
 
 # Product: Flight Search Engine
@@ -26,21 +27,21 @@ I was hired as the first PM of a previously engineer-led team. Tasked with recon
 ### Project 1: Improving Itinerary Coverage
 <div class="code-example" markdown="1">
 
-<strong>The problem</strong> - On certain flight routes, the combined result was missing some direct flight itineraries causing friction with end users. 
+<strong>The problem</strong> - On certain flight routes, the combined result was missing some direct flight itineraries causing friction with end users.
 
 <strong> The discovery</strong> - Our supplier's APIs ordered itinerary results from lowest to highest price by default and cut the result set at 50 itineraries. The direct flight missing results were set at a higher price point, for which they were being dropped at the supplier level.
 
 <strong> The result</strong> - By defining and testing 3 approaches towards maximizing itinerary coverage, we were able to improve coverage from 80% to 99%
-</div> 
+</div>
 
 ### Project 2: Enriching ticket conditions and attributes
 <div class="code-example" markdown="1">
-<strong>The problem</strong>  - 60% of our offers showed inconsistencies with baggage, refund and exchange attributes. To fill in the information gaps, we needed to create metrics to identify the problem and evaluate solutions to fix it.      
+<strong>The problem</strong>  - 60% of our offers showed inconsistencies with baggage, refund and exchange attributes. To fill in the information gaps, we needed to create metrics to identify the problem and evaluate solutions to fix it.
 
 <strong>The discovery</strong>  - Through granular metrics, we discovered that hot spots shifted through time depending use case, supplier and search behaviour. We had to approach this problem dynamically.
 
 <strong>The result</strong>  - In 6 weeks, we were able to improve consistency for routes consisting on 80% of our search volume and partnered with a 3rd party to address the long tail.
-</div> 
+</div>
 
 ### Project 3: Project 3: Search speed
 <div class="code-example" markdown="1">
@@ -51,4 +52,4 @@ I was hired as the first PM of a previously engineer-led team. Tasked with recon
 
 <strong>The result </strong> - Given dependencies, we created a long-pull endpoint to allow users to improve Time to Interactive of their applications and load the long-tail of results in parallel.
 
-</div> 
+</div>
