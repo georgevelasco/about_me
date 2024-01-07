@@ -1,15 +1,21 @@
 ---
 layout: default
 title: Product Experience
-nav_order: b
+nav_order: a
 has_children: true
 permalink: /docs/product_container
 ---
 
 # Product
 
-### I have 7 years of experience in Product Management
-Ranging from tech start-ups in London to multi-national corporates in Mexico.
-<br>
+### I approach problems as systems
+I enjoy understanding why things are important, to whom they are important and breaking down how they work. With this clarity, I am adamant at keeping team decisions aligned with business strategy.
+
+### I foster a work ethic based on trust
+I am a disciplined written communicator. I build trust with technical teams through hands-on problem solving and with stakeholders through transparent and frequent communication.
+
+### I know how to lead under uncertainty
+I advocate product co-ownership through question-led roadmaps and transparent decision-making. Creating a work ethic of clear individual accountability and openness to feedback.
+
 
 Below some highlights of my work:
