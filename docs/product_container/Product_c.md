@@ -47,7 +47,7 @@ of the Convinced Google Flights & meta searchers to update referral booking expe
 
 <strong> The discovery</strong> - Word of mouth was the main driver for growth. Prioritizing features that fixed errors experienced by our frequent traveler cohort, created a positive CSAT score and word of mouth recommendations. 
 
-<strong> The result</strong> - In 6 months, our portal transacted 10% of all company ticket exchanges, with an overall NPS improvement from 70 to 75%.
+<strong> The result</strong> - In 6 months, our portal transacted 10% of all company ticket exchanges, and improved NPS from 70 to 75%.
 
 </div>
 
