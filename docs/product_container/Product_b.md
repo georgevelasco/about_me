@@ -10,7 +10,7 @@ nav_order: b
 ## The Product
 {: .d-inline-block }
 AI
-{: .label .label-blue }
+{: .label .label-green}
 
 The PolyAI partnerships team launched a repeatable voice application for hotel front desk services.
 

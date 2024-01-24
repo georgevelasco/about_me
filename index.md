@@ -20,7 +20,3 @@ Understanding the different perspectives to a situation, and explaining my own i
 ### I am learning to give concise, actionable feedback
 I proofread graduate school applications and mentor up-and-coming product managers.
 
-### I am learning to be a better person
-Outside of work, I am writing poetry in spanish and mastering joint mobility exercises.
-
-
