@@ -35,6 +35,12 @@ I followed [Conventional Commits] specification for my commit messages visible i
 3. First class mobile experience
 4. Make the content shine
 
+### Scratchpad
+```bundle install```
+<br>
+
+```bundle exec jekyll serve --livereload```
+
 <br>
 <br>
 <br>

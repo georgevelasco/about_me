@@ -43,11 +43,11 @@ of the Convinced Google Flights & meta searchers to update referral booking expe
 ### Project 2: Self-serve ticket exchange
 <div class="code-example" markdown="1">
 
-<strong>The problem</strong> - a
+<strong>The problem</strong> - Launch and grow the airline's first self-serve ticket exchange portal and maintain a positive CSAT score. 
 
-<strong> The discovery</strong> - b
+<strong> The discovery</strong> - Word of mouth was the main driver for growth. Prioritizing features that fixed errors experienced by our frequent traveler cohort, created a positive CSAT score and word of mouth recommendations. 
 
-<strong> The result</strong> - c
+<strong> The result</strong> - In 6 months, our portal transacted 10% of all company ticket exchanges, with an overall NPS improvement from 70 to 75%.
 
 </div>
 
