@@ -3,6 +3,7 @@ title: E-Commerce
 layout: default
 parent: Product Experience
 nav_order: c
+heading_anchors: true
 ---
 
 # Product: Aeromexico Website

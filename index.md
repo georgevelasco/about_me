@@ -5,6 +5,7 @@ nav_order: 1
 description: "Jorge Velasco Product Management"
 permalink: /
 ---
+![me](http://127.0.0.1:4000/assets/images/jotavea.jpg "jotavea") 
 
 # Jorge Velasco
 [/in/georgevelasco](https://www.linkedin.com/in/georgevelasco/)
