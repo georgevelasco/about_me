@@ -9,14 +9,14 @@ permalink: /
 # Jorge Velasco
 [/in/georgevelasco](https://www.linkedin.com/in/georgevelasco/)
 
-Cambridge MBA with 7 years of experience in Product Management, ranging from tech start-ups in London to multi-national enterprises in Mexico.
+Product Manager with 7 years of experience ranging from early stage start-ups in London to multi-national corporates in Mexico City. Cambridge MBA graduate and Industrial and Systems Engineer.
 
-### I enjoy breaking down problems into smaller parts
+### I enjoy at breaking down problems into smaller parts
 Once I can draw it in a napkin and explain it, I know I have figured it out.
 
-### I enjoy the mental tussle of co-creation
+### I treasure the mental tussle of co-creation
 Understanding the different perspectives to a situation, and explaining my own in other terms.
 
-### I am learning to give concise, actionable feedback
-I proofread graduate school applications and mentor up-and-coming product managers.
+### I excel at written communication but are a visual learner 
+I mentor up-and-coming product managers and proofread graduate school applications. 
 

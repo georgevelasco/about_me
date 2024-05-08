@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Programming
+title: Events
 nav_order: c
 has_children: true
 has_toc: false
-permalink: /docs/programming_container
+permalink: /docs/events_container
 ---
 
-# Programming
+# Events
 
 ### I am a fast-learner able to pick up new languages and tools
 I enjoy learning the technical aspects to better communicate with software engineers.
