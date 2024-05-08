@@ -19,13 +19,13 @@ We gathered a group of PMs and tasked them to only use GenAI to come up with Vis
 
 ## Photos of the Event
 
-![one](http://127.0.0.1:4000/assets/images/product_camp_four.jpeg "jorge") 
+![one](/assets/images/product_camp_four.jpeg "jorge") 
 
-![2ne](http://127.0.0.1:4000/assets/images/product_camp_three.jpeg "2orge") 
+![2ne](/assets/images/product_camp_three.jpeg "2orge") 
 
-![3ne](http://127.0.0.1:4000/assets/images/product_camp_two.jpeg "3orge") 
+![3ne](/assets/images/product_camp_two.jpeg "3orge") 
 
-![4ne](http://127.0.0.1:4000/assets/images/product_camp_one.jpeg "4orge") 
+![4ne](/assets/images/product_camp_one.jpeg "4orge") 
 
 
 
