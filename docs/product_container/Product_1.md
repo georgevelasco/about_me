@@ -14,7 +14,7 @@ heading_anchors: true
 API
 {: .label .label-purple }
 
-Junction is a search engine built to search, book and cancel tickets for trains, flights, hotels, busses and ferries. 
+I manage an API and search engine desigend to search, book and cancel tickets for trains, flights, hotels, busses and ferries. 
 
 ## My Role
 This is my current role and it consists in managing development for the core search engine, leading integrations with 3rd party content providers and defining our customer-facing API design and documentation.
