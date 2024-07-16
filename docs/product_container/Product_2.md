@@ -1,8 +1,8 @@
 ---
-title: Flight Search Engine
+title: Flights Search Engine
 layout: default
 parent: Product Experience
-nav_order: a
+nav_order: b
 heading_anchors: true
 ---
 
@@ -22,17 +22,16 @@ I was hired as the first PM of a previously engineer-led team. Tasked with recon
 
 ## The Team
 5 senior back-end software engineers <br>
-2 front-end software engineers <br>
 1 product designer
 
-### Project 1: Improving Itinerary Coverage
+### Project 1: Improving itinerary coverage
 <div class="code-example" markdown="1">
 
 <strong>The problem</strong> - On certain flight routes, the combined result was missing some direct flight itineraries causing friction with end users.
 
 <strong> The discovery</strong> - Our supplier's APIs ordered itinerary results from lowest to highest price by default and cut the result set at 50 itineraries. The direct flight missing results were set at a higher price point, for which they were being dropped at the supplier level.
 
-<strong> The result</strong> - By defining and testing 3 approaches towards maximizing itinerary coverage, we were able to improve coverage from 80% to 99%
+<strong> The result</strong> - By defining and testing 3 approaches towards maximizing itinerary coverage, we were able to improve coverage on these cases, from 80% to 99%
 </div>
 
 ### Project 2: Enriching ticket conditions and attributes
@@ -51,6 +50,6 @@ I was hired as the first PM of a previously engineer-led team. Tasked with recon
 
 <strong>The discovery</strong> - 80% of latency depended on 3rd party APIs. Duffel search speed could be addressed in two very different approaches: a design choice, and a technical solution.
 
-<strong>The result </strong> - Given dependencies, we created a long-pull endpoint to allow users to improve Time to Interactive of their applications and load the long-tail of results in parallel.
+<strong>The result </strong> - Two fold solution: First, we modified our customer onboarding playbook to address search speed at the design stage. Second, we created a long-pull endoint to accelerate application's Time to Interactive.
 
 </div>
