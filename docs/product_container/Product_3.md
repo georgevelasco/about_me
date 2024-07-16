@@ -13,10 +13,10 @@ heading_anchors: true
 AI
 {: .label .label-green}
 
-The PolyAI partnerships team launched a repeatable voice application for hotel front desk services.
+An AI voice assistant for hotel customer service built on proprietary NLP models.
 
 ## My Role
-Summer Internship during the Cambridge MBA. The scope of work was to identify the bottlenecks for scaling our product operations.
+Summer Internship during the Cambridge MBA. The scope of work was to identify the bottlenecks for scaling our product operations to serve 100+ properties.
 
 
 ## The Team

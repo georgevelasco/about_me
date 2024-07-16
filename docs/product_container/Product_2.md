@@ -15,7 +15,7 @@ API
 {: .label .label-purple }
 
 
-The Duffel Flights API is a multi-sided platform that connects travel sellers on the demand side and 300+ airlines on the supply side.
+The Flights API is a multi-sided platform that connects travel sellers on the demand side and 300+ airlines on the supply side.
 
 ## My Role
 I was hired as the first PM of a previously engineer-led team. Tasked with reconciling product discovery of a new customer segment and technical requirements of airlines, into a single product roadmap.
