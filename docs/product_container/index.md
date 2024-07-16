@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/product_container
 ---
 
-# Product
+# Product Experience
 
 ### I approach problems as systems
 I enjoy understanding why things are important, to whom they are important and breaking down how they work. With this clarity, I am adamant at keeping team decisions aligned with business strategy.
