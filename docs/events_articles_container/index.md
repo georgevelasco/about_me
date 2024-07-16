@@ -8,3 +8,4 @@ permalink: /docs/events_container
 ---
 
 # Events and Articles
+Enlisted below are mentions on articles, conferences and events.
