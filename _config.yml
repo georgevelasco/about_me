@@ -7,3 +7,10 @@ repository: georgevelasco/about_me
 ---
 
 logo: "/assets/images/logo.jpeg"
+
+aux_links:
+  "View GitHub repo":
+    - "//github.com/georgevelasco/about_me"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
